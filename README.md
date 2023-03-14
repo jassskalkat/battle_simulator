@@ -1,1 +1,1 @@
-# battle_simulator
+# C++ Battle Simulator
